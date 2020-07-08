@@ -2,3 +2,6 @@ first file
 
 feature1
 add something here
+
+feature2
+add something here
