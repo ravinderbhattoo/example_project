@@ -1,3 +1,6 @@
 first file
 
 feature1
+
+
+feature2
